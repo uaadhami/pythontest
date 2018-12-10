@@ -1,0 +1,26 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = ssh://git.amazon.com:2222/pkg/PythonAutomation
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "share"]
+	url = ssh://git.amazon.com:2222/pkg/PythonAutomation/share/uaadhami
+	fetch = +refs/heads/*:refs/remotes/share/*
+[remote "backup"]
+	url = ssh://git.amazon.com:2222/pkg/PythonAutomation/backup/uaadhami
+	fetch = +refs/heads/*:refs/remotes/backup/*
+[branch "uaadhami"]
+	remote = origin
+	merge = refs/heads/umar
+[branch "testing"]
+	remote = origin
+	merge = refs/heads/testing
+[branch "mainline"]
+	remote = origin
+	merge = refs/heads/mainline
+[branch "test"]
+	remote = origin
+	merge = refs/heads/test

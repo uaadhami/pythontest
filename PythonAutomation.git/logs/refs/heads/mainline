@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 0fabfa302c4ec003fee0dd922c8d399ac07aa32d Mohammad Umar Adhami <uaadhami@amazon.com> 1544116891 +0000	commit (initial): commit by Octane
+0fabfa302c4ec003fee0dd922c8d399ac07aa32d 893d7e3133478cb9403605358db113c6ed864ccf Mohammad Umar Adhami <uaadhami@amazon.com> 1544206530 +0000	merge test: Fast-forward
+893d7e3133478cb9403605358db113c6ed864ccf 5559d0420a858262c1b0328769c1f7fd40d324ed Mohammad Umar Adhami <uaadhami@amazon.com> 1544207350 +0000	commit: change on mailine
+5559d0420a858262c1b0328769c1f7fd40d324ed be4c76cbaa6f68973e7f231a1f6605c6919416f8 Mohammad Umar Adhami <uaadhami@amazon.com> 1544209465 +0000	commit: second change in mainline
+be4c76cbaa6f68973e7f231a1f6605c6919416f8 f946234d19dcaedcab50fbf0eac250d2a823b20d Mohammad Umar Adhami <uaadhami@amazon.com> 1544209838 +0000	commit (merge): Committing before merging to mainline
+f946234d19dcaedcab50fbf0eac250d2a823b20d a3e1d09c56ad601ca742851baef53a40c820a3f2 Mohammad Umar Adhami <uaadhami@amazon.com> 1544210221 +0000	merge umar: Fast-forward
+a3e1d09c56ad601ca742851baef53a40c820a3f2 096ea23dc14a6334852ed3dd6c775f788e8477d0 Mohammad Umar Adhami <uaadhami@amazon.com> 1544210606 +0000	commit: third commit in mainline
+096ea23dc14a6334852ed3dd6c775f788e8477d0 baf34de0ffc0bfe625c2d4fd4659b8edf5c2ee30 Mohammad Umar Adhami <uaadhami@amazon.com> 1544431301 +0000	commit: Rebase test in mainline
+baf34de0ffc0bfe625c2d4fd4659b8edf5c2ee30 fc225079ee420e5d10031188fd593bc3a0f1a256 Mohammad Umar Adhami <uaadhami@amazon.com> 1544432586 +0000	commit: Rebase in mainline branch
+fc225079ee420e5d10031188fd593bc3a0f1a256 9fee420b1dbed7defa6d02128376b4bd8aebe7ca Mohammad Umar Adhami <uaadhami@amazon.com> 1544434040 +0000	merge umar: Fast-forward
+9fee420b1dbed7defa6d02128376b4bd8aebe7ca d8d750f1cfccbd68cbc5c5890650d0b152630c43 Mohammad Umar Adhami <uaadhami@amazon.com> 1544434608 +0000	commit: merge mainline
+d8d750f1cfccbd68cbc5c5890650d0b152630c43 3fa2329007d4a664729eb21179a1061ad59669cc Mohammad Umar Adhami <uaadhami@amazon.com> 1544435173 +0000	commit (merge): merging with umar now
