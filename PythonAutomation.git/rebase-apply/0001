@@ -1,0 +1,21 @@
+From ec599ddb1975243c85c34e30c99f2bd9c8178a55 Mon Sep 17 00:00:00 2001
+From: Mohammad Umar Adhami <uaadhami@amazon.com>
+Date: Fri, 7 Dec 2018 19:25:19 +0000
+Subject: New chagne in umar
+
+---
+ src/python_automation/hello.py | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/python_automation/hello.py b/src/python_automation/hello.py
+index fae328626f9de053cae91155459b5d1e6bfbe19c..1dec747facff0a0a421af66d8d3aa1c64436e66f 100755
+--- a/src/python_automation/hello.py
++++ b/src/python_automation/hello.py
+@@ -14,3 +14,4 @@ print("testing mainline")
+ >>>>>>> mainline
+ print("thrid change in test")
+ >>>>>>> mainline
++print("new change in new branch")
+-- 
+2.7.3.AMZN
+
